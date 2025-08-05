@@ -2,8 +2,6 @@
 
 A full-stack order management system with React frontend and Spring Boot backend, integrated with AWS services.
 
-![Dashboard Preview](https://i.imgur.com/JKQlzYl.png) *(Example screenshot - add your own later)*
-
 ## Features
 
 - **Frontend** (React.js)
